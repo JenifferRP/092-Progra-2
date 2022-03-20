@@ -1,0 +1,13 @@
+C:\Users\yo\Desktop\201900998_EMPEÑO\201900998_EMPEÑO\obj\Debug\201900998_EMPEÑO.vbproj.AssemblyReference.cache
+C:\Users\yo\Desktop\201900998_EMPEÑO\201900998_EMPEÑO\obj\Debug\201900998_EMPEÑO.vbproj.SuggestedBindingRedirects.cache
+C:\Users\yo\Desktop\201900998_EMPEÑO\201900998_EMPEÑO\obj\Debug\_201900998_EMPEÑO.Form1.resources
+C:\Users\yo\Desktop\201900998_EMPEÑO\201900998_EMPEÑO\obj\Debug\_201900998_EMPEÑO.Resources.resources
+C:\Users\yo\Desktop\201900998_EMPEÑO\201900998_EMPEÑO\obj\Debug\201900998_EMPEÑO.vbproj.GenerateResource.cache
+C:\Users\yo\Desktop\201900998_EMPEÑO\201900998_EMPEÑO\obj\Debug\201900998_EMPEÑO.vbproj.CoreCompileInputs.cache
+C:\Users\yo\Desktop\201900998_EMPEÑO\201900998_EMPEÑO\bin\Debug\201900998_EMPEÑO.exe.config
+C:\Users\yo\Desktop\201900998_EMPEÑO\201900998_EMPEÑO\bin\Debug\201900998_EMPEÑO.exe
+C:\Users\yo\Desktop\201900998_EMPEÑO\201900998_EMPEÑO\bin\Debug\201900998_EMPEÑO.pdb
+C:\Users\yo\Desktop\201900998_EMPEÑO\201900998_EMPEÑO\bin\Debug\201900998_EMPEÑO.xml
+C:\Users\yo\Desktop\201900998_EMPEÑO\201900998_EMPEÑO\obj\Debug\201900998_EMPEÑO.exe
+C:\Users\yo\Desktop\201900998_EMPEÑO\201900998_EMPEÑO\obj\Debug\201900998_EMPEÑO.xml
+C:\Users\yo\Desktop\201900998_EMPEÑO\201900998_EMPEÑO\obj\Debug\201900998_EMPEÑO.pdb
